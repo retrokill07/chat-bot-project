@@ -53,7 +53,7 @@ Or if you have the HTML file open directly, make sure the backend is running!
 - GPT-4o
 - Claude 3.5 Sonnet
 - Gemini Pro
-- Llama 3.1
+- Llama 3.1(only available for now)
 
 ## Project Structure
 
